@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "scripts": {
     "start": "mdx-deck deck.mdx",
+    "start-example": "mdx-deck deck-example.mdx",
     "build": "mdx-deck build deck.mdx",
     "test": "echo \"there are no tests\""
   },
